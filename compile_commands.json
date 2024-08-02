@@ -1,0 +1,121 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-g",
+      "-I",
+      "W:/include",
+      "-I",
+      "include",
+      "-o",
+      "game.exe",
+      "src/glad.c"
+    ],
+    "directory": "/home/chris/Projects/games/chrids-arcade",
+    "file": "/home/chris/Projects/games/chrids-arcade/src/glad.c",
+    "output": "/home/chris/Projects/games/chrids-arcade/game.exe"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-g",
+      "-I",
+      "W:/include",
+      "-I",
+      "include",
+      "-o",
+      "game.exe",
+      "src/main.c"
+    ],
+    "directory": "/home/chris/Projects/games/chrids-arcade",
+    "file": "/home/chris/Projects/games/chrids-arcade/src/main.c",
+    "output": "/home/chris/Projects/games/chrids-arcade/game.exe"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-g",
+      "-I",
+      "W:/include",
+      "-I",
+      "include",
+      "-o",
+      "game.exe",
+      "src/engine/global.c"
+    ],
+    "directory": "/home/chris/Projects/games/chrids-arcade",
+    "file": "/home/chris/Projects/games/chrids-arcade/src/engine/global.c",
+    "output": "/home/chris/Projects/games/chrids-arcade/game.exe"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-g",
+      "-I",
+      "W:/include",
+      "-I",
+      "include",
+      "-o",
+      "game.exe",
+      "src/engine/io/io.c"
+    ],
+    "directory": "/home/chris/Projects/games/chrids-arcade",
+    "file": "/home/chris/Projects/games/chrids-arcade/src/engine/io/io.c",
+    "output": "/home/chris/Projects/games/chrids-arcade/game.exe"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-g",
+      "-I",
+      "W:/include",
+      "-I",
+      "include",
+      "-o",
+      "game.exe",
+      "src/engine/render/render.c"
+    ],
+    "directory": "/home/chris/Projects/games/chrids-arcade",
+    "file": "/home/chris/Projects/games/chrids-arcade/src/engine/render/render.c",
+    "output": "/home/chris/Projects/games/chrids-arcade/game.exe"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-g",
+      "-I",
+      "W:/include",
+      "-I",
+      "include",
+      "-o",
+      "game.exe",
+      "src/engine/render/render_init.c"
+    ],
+    "directory": "/home/chris/Projects/games/chrids-arcade",
+    "file": "/home/chris/Projects/games/chrids-arcade/src/engine/render/render_init.c",
+    "output": "/home/chris/Projects/games/chrids-arcade/game.exe"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-g",
+      "-I",
+      "W:/include",
+      "-I",
+      "include",
+      "-o",
+      "game.exe",
+      "src/engine/render/render_util.c"
+    ],
+    "directory": "/home/chris/Projects/games/chrids-arcade",
+    "file": "/home/chris/Projects/games/chrids-arcade/src/engine/render/render_util.c",
+    "output": "/home/chris/Projects/games/chrids-arcade/game.exe"
+  }
+]
