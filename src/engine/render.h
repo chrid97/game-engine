@@ -1,10 +1,8 @@
-#ifndef RENDER_H
-#define RENDER_H
-
-#include "../types.h"
+#pragma once
+#include "types.h"
+#include <SDL2/SDL.h>
 #include <linmath.h>
 
-#include <SDL2/SDL.h>
 
 typedef struct render_state {
   SDL_Window *window;
@@ -16,5 +14,3 @@ void render_init(void);
 void render_begin(void);
 void render_end(void);
 void render_quad(vec2 pos, vec2 size, vec4 color);
-
-#endif // !RENDER_H
